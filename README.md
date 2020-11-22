@@ -31,14 +31,17 @@ Once done, follow the below steps to setup Safari to work with Selenium
 
 Open Safari Preferences (Cmd + ,) > Advanced > **enable show Develop menu in menu bar**.
 
+![](https://github.com/devwaseem/follow_ios_devs/raw/main/screenshots/develop_menu.png)
+
 Now, goto Develop (menu bar) > Allow Remote Automation
 
+![](https://github.com/devwaseem/follow_ios_devs/raw/main/screenshots/allow_remote_automation.png)
 
 
 
 ## ⚙️ Configuration
 
-Make sure you add your twitter username and password in `config.py` file inorder for the script to work.
+Before you run, make sure you add your twitter username and password in `config.py` file inorder for the script to work.
 
 To add or delete twitter handles, refer `handles.json` file. 
 
