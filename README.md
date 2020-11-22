@@ -73,7 +73,7 @@ You can contribute us by filing issues, bugs and PRs.
 ```
 MIT License
 
-Copyright (c) 2020 TheCodeMonks
+Copyright (c) 2020 Waseem Akram
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
