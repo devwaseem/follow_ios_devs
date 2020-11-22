@@ -27,6 +27,15 @@ cd follow_ios_devs/
 make setup
 ```
 
+Once done, follow the below steps to setup Safari to work with Selenium
+
+Open Safari Preferences (Cmd + ,) > Advanced > **enable show Develop menu in menu bar**.
+
+Now, goto Develop (menu bar) > Allow Remote Automation
+
+
+
+
 ## ⚙️ Configuration
 
 Make sure you add your twitter username and password in `config.py` file inorder for the script to work.
@@ -50,8 +59,6 @@ In terminal, inside the project folder, type:
 ```
 ./follow_ios_devs.py
 ```
-
-
 
 
 ## ✏️ Contribute
