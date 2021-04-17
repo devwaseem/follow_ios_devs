@@ -14,6 +14,8 @@ A Python script to follow iOS developers/community on twitter automatically
 
 ![](https://github.com/devwaseem/follow_ios_devs/raw/main/screenshots/screen1.png)
  
+ #### Before you use the script make sure you add your name to the list. Please note that the list might not have updated.
+ 
 ## 📜 Requirements
 ```
 - Python3
